@@ -1,0 +1,25 @@
+{
+  "name": "the-sixth-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "predeploy": "echo Skipping build step", 
+  "deploy": "gh-pages -d dist",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishhkumarr/the-sixth-side.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishhkumarr/the-sixth-side/issues"
+  },
+  "homepage": "https://ashishhkumarr.github.io/the-sixth-side",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
